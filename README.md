@@ -23,6 +23,6 @@ $ rbenv --version
 $ rbenv install 2.1.4
 ```
 参考
-[rbenv を利用した Ruby 環境の構築](http://dev.classmethod.jp/server-side/language/build-ruby-environment-by-rbenv/)
+[rbenv を利用した Ruby 環境の構築](http://dev.classmethod.jp/server-side/language/build-ruby-environment-by-rbenv/)  
 [rbenv を使って ruby をインストールする(CentOS編)](http://qiita.com/inouet/items/478f4228dbbcd442bfe8)
 
