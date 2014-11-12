@@ -10,6 +10,7 @@ CentOS6ではruby 1.87がインストールされていたためデフォルト�
 ```bash
 $ sudo yum install gcc
 $ sudo yum install git
+$ sudo yum install openssl-devel
 
 $ git clone https://github.com/sstephenson/rbenv.git ~/.rbenv
 $ git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
