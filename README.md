@@ -22,6 +22,8 @@ $ source ~/.bash_profile
 $ rbenv --version
 
 $ rbenv install 2.1.4
+$ rbenv global 2.1.4
+$ ruby -v
 ```
 参考
 [rbenv を利用した Ruby 環境の構築](http://dev.classmethod.jp/server-side/language/build-ruby-environment-by-rbenv/)  
